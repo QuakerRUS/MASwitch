@@ -9,5 +9,3 @@ Instructions for the fitting:
 * Remember the parameter and write it down, when you run it, e.g. this: MASwitch 6 10 1
 * To exit the utility and restore acceleration, press Esc.
 * If the operation of the utility was interrupted not through Esc, to restore the settings, run the utility with the previous parameters and press Esc.
-
-Translated with www.DeepL.com/Translator (free version)
